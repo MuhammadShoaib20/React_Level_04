@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# React Practice Challenges – Level 4
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains 10 advanced React.js challenges (Level 4), focused on modern UI logic, advanced hooks, performance optimization, routing, and reusable patterns.
 
-## Available Scripts
+**Live App:**  
+[View the Live App](https://muhammadshoaib20.github.io/React-Challenges-level-04)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📸 App Preview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Level 4 React Practice Preview](./Images/1.png)
+![Level 4 React Practice Preview](./Images/2.png)
+![Level 4 React Practice Preview](./Images/3.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ✅ List of Level 4 Challenges
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| #   | Challenge Name                    | Key Concepts Used                                           |
+|-----|----------------------------------|--------------------------------------------------------------|
+| 1️⃣ | Dynamic Routing with Params      | `react-router`, `useParams`, dynamic rendering              |
+| 2️⃣ | 404 Page Handling                 | Fallback routes, conditional rendering                      |
+| 3️⃣ | Lazy Loaded Component            | `React.lazy`, `Suspense`, code-splitting                    |
+| 4️⃣ | Filterable Product List          | `useState`, filter logic, reusable components               |
+| 5️⃣ | Sorted List (By Name/Age)        | Sorting logic, immutability, user events                    |
+| 6️⃣ | Responsive Sidebar with Routing  | Sidebar layout, `NavLink`, active styles, toggle collapse   |
+| 7️⃣ | useEffect Timer Concept          | `useEffect`, `setInterval`, cleanup function                |
+| 8️⃣ | Pagination with Limited Items    | Array slicing, page state, next/prev logic                  |
+| 9️⃣ | Tab Switching UI                 | `useState`, tab management, conditional rendering           |
+| 🔟 | useReducer for Auth/Login State   | `useReducer`, global state, login/logout system             |
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🧪 How to Run Locally
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/MuhammadShoaib20/React-Challenges-level-04.git
+cd React-Challenges-level-04
+npm install
+npm run dev
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+---
 
-### `npm run eject`
+##  Deployment
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is deployed using **GitHub Pages** with the help of the `gh-pages` package.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+###  Steps to Deploy
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm install
+npm run build
+npm run deploy
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+###  Live App
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[https://muhammadshoaib20.github.io/React-Challenges-level-03](https://muhammadshoaib20.github.io/React-Challenges-level-03)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+👤 **Muhammad Shoaib**  
+💼 [GitHub Profile](https://github.com/MuhammadShoaib20)
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## ⭐️ Give it a Star
 
-### Advanced Configuration
+If you found this repository helpful, consider giving it a ⭐ on GitHub.
+It helps others discover it and motivates me to build more cool stuff!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🌟 [Star this repo](https://github.com/MuhammadShoaib20/React-Challenges-level-03.git)
