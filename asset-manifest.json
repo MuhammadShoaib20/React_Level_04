@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MuhammadShoaib20/React_Level_04.git/static/css/main.95a955dc.css",
-    "main.js": "/MuhammadShoaib20/React_Level_04.git/static/js/main.fbb2e330.js",
-    "static/js/589.5a436929.chunk.js": "/MuhammadShoaib20/React_Level_04.git/static/js/589.5a436929.chunk.js",
-    "static/js/453.f98fe7ee.chunk.js": "/MuhammadShoaib20/React_Level_04.git/static/js/453.f98fe7ee.chunk.js",
-    "index.html": "/MuhammadShoaib20/React_Level_04.git/index.html",
-    "main.95a955dc.css.map": "/MuhammadShoaib20/React_Level_04.git/static/css/main.95a955dc.css.map",
-    "main.fbb2e330.js.map": "/MuhammadShoaib20/React_Level_04.git/static/js/main.fbb2e330.js.map",
-    "589.5a436929.chunk.js.map": "/MuhammadShoaib20/React_Level_04.git/static/js/589.5a436929.chunk.js.map",
-    "453.f98fe7ee.chunk.js.map": "/MuhammadShoaib20/React_Level_04.git/static/js/453.f98fe7ee.chunk.js.map"
+    "main.css": "/React_Level_04/static/css/main.95a955dc.css",
+    "main.js": "/React_Level_04/static/js/main.c8f0aafb.js",
+    "static/js/589.cb4d4a30.chunk.js": "/React_Level_04/static/js/589.cb4d4a30.chunk.js",
+    "static/js/453.fea3241e.chunk.js": "/React_Level_04/static/js/453.fea3241e.chunk.js",
+    "index.html": "/React_Level_04/index.html",
+    "main.95a955dc.css.map": "/React_Level_04/static/css/main.95a955dc.css.map",
+    "main.c8f0aafb.js.map": "/React_Level_04/static/js/main.c8f0aafb.js.map",
+    "589.cb4d4a30.chunk.js.map": "/React_Level_04/static/js/589.cb4d4a30.chunk.js.map",
+    "453.fea3241e.chunk.js.map": "/React_Level_04/static/js/453.fea3241e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95a955dc.css",
-    "static/js/main.fbb2e330.js"
+    "static/js/main.c8f0aafb.js"
   ]
 }
