@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklevel_04=self.webpackChunklevel_04||[]).push([[589],{589:(e,s,l)=>{l.r(s),l.d(s,{default:()=>a});l(43);var h=l(579);const a=()=>(0,h.jsxs)("div",{children:[(0,h.jsx)("h2",{children:"Chart Component "}),(0,h.jsx)("p",{children:"This is Heavy Chart that is lazy loaded "})]})}}]);
+//# sourceMappingURL=589.5a436929.chunk.js.map
