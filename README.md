@@ -3,7 +3,7 @@
 This repository contains 10 advanced React.js challenges (Level 4), focused on modern UI logic, advanced hooks, performance optimization, routing, and reusable patterns.
 
 **Live App:**  
-[View the Live App](https://muhammadshoaib20.github.io/React-Challenges-level-04)
+[View the Live App](https://muhammadshoaib20.github.io/React_Level_04/)
 
 ---
 
@@ -60,7 +60,7 @@ npm run deploy
 
 ###  Live App
 
-[https://muhammadshoaib20.github.io/React-Challenges-level-03](https://muhammadshoaib20.github.io/React-Challenges-level-03)
+[https://muhammadshoaib20.github.io/React_Level_04/](https://muhammadshoaib20.github.io/React_Level_04/)
 
 
 ---
@@ -78,4 +78,4 @@ If you found this repository helpful, consider giving it a ⭐ on GitHub.
 It helps others discover it and motivates me to build more cool stuff!
 
 
-🌟 [Star this repo](https://github.com/MuhammadShoaib20/React-Challenges-level-03.git)
+🌟 [Star this repo](https://github.com/MuhammadShoaib20/React_Level_04)
