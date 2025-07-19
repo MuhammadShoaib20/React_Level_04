@@ -2,7 +2,7 @@
   "name": "level_04",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MuhammadShoaib20.github.io/React-Challenges-level-04",
+  
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
